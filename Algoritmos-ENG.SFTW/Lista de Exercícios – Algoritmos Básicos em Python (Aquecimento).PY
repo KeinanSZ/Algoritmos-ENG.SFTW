@@ -297,8 +297,8 @@ except Exception as e:
 # 39. Crie um menu interativo simples usando while. 
 while True:
     print("\nMenu:")
-    print("1. voltar a opção 1")
-    print("2. voltar a opção 2")
+    print("1. opção 1")
+    print("2. opção 2")
     print("3. Sair")
     
     escolha = input("Digite sua escolha (1, 2 ou 3):")
