@@ -44,3 +44,4 @@ resultado4 = divisao(a, b)
 
 print(f"{resultado1:.3f}, {resultado2:.3f}, {resultado3:.3f}, {resultado4:.3f}")
 
+
